@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mars-Visit-Application/static/css/main.5f0bf139.css",
+    "main.js": "/Mars-Visit-Application/static/js/main.22beaa9a.js",
+    "static/js/488.36d95d55.chunk.js": "/Mars-Visit-Application/static/js/488.36d95d55.chunk.js",
+    "index.html": "/Mars-Visit-Application/index.html",
+    "main.5f0bf139.css.map": "/Mars-Visit-Application/static/css/main.5f0bf139.css.map",
+    "main.22beaa9a.js.map": "/Mars-Visit-Application/static/js/main.22beaa9a.js.map",
+    "488.36d95d55.chunk.js.map": "/Mars-Visit-Application/static/js/488.36d95d55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f0bf139.css",
+    "static/js/main.22beaa9a.js"
+  ]
+}
