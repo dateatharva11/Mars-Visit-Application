@@ -92,4 +92,4 @@ This will run all the tests defined in the unittests/ folder and output the resu
 
 ## Live Site
 
-The site is hosted and available at <link>
+The site is hosted and available at https://dateatharva11.github.io/Mars-Visit-Application/
